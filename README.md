@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitoramaral/)](https://www.linkedin.com/in/heitoramaral/)
 
 ### About me
-I'm a Developer at [Sensedia](https://www.sensedia.com/).
+I'm a Java Backend Developer at [Sensedia](https://www.sensedia.com/).
